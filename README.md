@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my own learning
-- 🌱 I’m currently learning python, html - css, sql amd how to design websites
+- 🌱 I’m currently learning python, html - css, sql and how to design websites
 - 👯 I’m looking to collaborate on
 - 📫 How to reach me: ...
 - instagram - https://www.instagram.com/akashverma8569/

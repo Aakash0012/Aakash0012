@@ -2,9 +2,8 @@
 
 
 **Aakash0012/Aakash0012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/f76accf90aa98e66228c854f326902a77e77c884c6b41c4002de3c0ff0c72586/687474703a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d253233333642434637266c696e65733d49276d2b612b507572726772616d6d65722e" alt="Typing SVG" data-canonical-src="http://readme-typing-svg.herokuapp.com?color=%2336BCF7&amp;lines=I'm+a+gamer+and+learner." style="max-width: 100%;"></a></p>
-<div align="center" dir="auto"><a href="https://github.com/Carol42/Carol42/blob/main/assets/header.png"><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/raw/main/assets/header.png" style="max-width: 100%;"></a></div>
 <p dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/779cfcd2b198d9fab91a463a9f32751c7e343b1cb24e691ccf68bd5c4381eb07/687474703a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d2532334637343739352673697a653d3234266c696e65733d492b4d2b4c6561726e65722b2121" alt="Typing SVG" data-canonical-src="http://readme-typing-svg.herokuapp.com?color=%23F74795&amp;size=24&amp;lines=I+M+Learner+!!" style="max-width: 100%;"></a>
+<div align="center" dir="auto"><a href="https://github.com/Carol42/Carol42/blob/main/assets/header.png"><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/raw/main/assets/header.png" style="max-width: 100%;"></a></div>
 
 Here are some ideas to get you started:
 

@@ -35,20 +35,3 @@ fun fact -
         <text text-anchor="end" class="text-small activity-overview-label js-highlight-label-left" dy="183" dx="65.453125">Commits</text>
       </g>
     </svg>
-<g transform="translate(-18.25, -40.453125)">
-        <path class="js-highlight-blob" stroke-linejoin="round" fill="#40c463" stroke="#40c463" opacity="0.5" stroke-width="7" d="M169.5,157.2564338235294 L221.4500612745098,169.5 L169.5,181.7435661764706 L81.453125,169.5 z"></path>
-        <line stroke-width="2" stroke-linecap="round" class="js-highlight-x-axis activity-overview-axis " x1="77.453125" y1="169.5" x2="261.546875" y2="169.5"></line>
-        <line stroke-width="2" stroke-linecap="round" class="js-highlight-y-axis activity-overview-axis " x1="169.5" y1="77.453125" x2="169.5" y2="261.546875"></line>
-        <ellipse class="activity-overview-point js-highlight-top-ellipse " rx="3" ry="3" stroke-width="2" fill="white" cx="169.5" cy="155.2564338235294"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-right-ellipse " rx="3" ry="3" stroke-width="2" fill="white" cx="223.4500612745098" cy="169.5"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-bottom-ellipse " rx="3" ry="3" stroke-width="2" fill="white" cx="169.5" cy="183.7435661764706"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-left-ellipse " rx="3" ry="3" stroke-width="2" fill="white" cx="79.453125" cy="169.5"></ellipse>
-        <text text-anchor="middle" class="activity-overview-percentage js-highlight-percent-top" dx="169.5" dy="51.453125">9%</text>
-        <text text-anchor="middle" class="text-small activity-overview-label js-highlight-label-top" dx="169.5" dy="67.453125">Code review</text>
-        <text text-anchor="start" class="activity-overview-percentage js-highlight-percent-right" dy="167" dx="277.4296875">31%</text>
-        <text text-anchor="start" class="text-small activity-overview-label js-highlight-label-right" dy="183" dx="271.546875">Issues</text>
-        <text text-anchor="middle" class="activity-overview-percentage js-highlight-percent-bottom" dx="169.5" dy="277.546875">9%</text>
-        <text text-anchor="middle" class="text-small activity-overview-label js-highlight-label-bottom" dx="169.5" dy="293.546875">Pull requests</text>
-        <text text-anchor="end" class="activity-overview-percentage js-highlight-percent-left" dy="167" dx="51.7421875">51%</text>
-        <text text-anchor="end" class="text-small activity-overview-label js-highlight-label-left" dy="183" dx="65.453125">Commits</text>
-      </g>

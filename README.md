@@ -33,7 +33,7 @@ know fact-
   <ul class="list-style-none ">
     <li class="mb-2 d-flex" data-test-selector="grid-mode-element">
       <a href="https://github.com/Aakash0012" class="mr-2" data-hovercard-type="user" data-hovercard-url="/users/Aakash0012/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
-        <img src="https://avatars.githubusercontent.com/u/96523387?v=4" alt="@Aakash0012" size="32" height="32" width="32" data-view-component="true" class="avatar circle">
+       <img style="height:auto;" alt="" width="32" height="32" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/98387181?v=4">
       </a>
       <span data-view-component="true" class="flex-self-center min-width-0 css-truncate css-truncate-overflow width-fit flex-auto">
         <a href="https://github.com/Aakash0012" class="Link--primary no-underline flex-self-center">

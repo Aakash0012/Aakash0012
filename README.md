@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/akashverma8569/" rel="nofollow"><img src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" style="max-width: 100%;"></a>
 
 <a href="mailto:akashverna8569@gmail.com"><img src="https://camo.githubusercontent.com/668a9067c25b1b752f38cf5fc90926e1e49e78ebb62a5c18b5038c6ea0075841/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a696d7669636b796b756d617239393940676d61696c2e636f6d" alt="Gmail Badge" style="max-width: 100%;"></a>
-- <img src="https://activity-graph.herokuapp.com/graph?username=Aakash0012&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
+
+<a href="https://twitter.com/AAKASHV1203" rel="nofollow"><img 
+src="https://cdn-icons-png.flaticon.com/128/145/145812.png" data-src="https://cdn-icons-png.flaticon.com/128/145/145812.png" alt="Twitter " title="Twitter " width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/145/145812.png 4x">- <img src="https://activity-graph.herokuapp.com/graph?username=Aakash0012&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
 know fact-
 <br>
 <p align="center" >

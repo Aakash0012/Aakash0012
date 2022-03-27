@@ -1,4 +1,6 @@
+<p align="center" >
 <img src="https://camo.githubusercontent.com/a317930756e224fe9e139357d41031547ad2ea9c1c6947aa9af3061d888ff14f/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f54303137324343504755572f70617274792d626c6f622f643732353337303766613133653965652e676966" style="max-width: 100%;">
+ </p>
 <h1 align="Center" dir="auto"><a id="user-content-hello-i-m-Aakash--" class="anchor" aria-hidden="true" href="#hello-there--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hello, i m Aakash <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> </h1>
 
 
@@ -14,10 +16,10 @@ Here are some ideas to get you started:
 
 <h2 dir="auto"><a id="user-content--how-to-reach-me" class="anchor" aria-hidden="true" href="#-how-to-reach-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a id="user-content-busts_in_silhouette-how-to-reach-me"href="#busts_in_silhouette-how-to-reach-me"></a><g-emoji class="g-emoji" alias="busts_in_silhouette" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f465.png">👥</g-emoji> How to reach me</h2>
 
-<a href="https://www.instagram.com/akashverma8569/" rel="nofollow"><img
-src="https://camo.githubusercontent.com/61a6bc43030e16ac67f26dff842339a7b9a01153db103ac5dc0469425351a089/68747470733a2f2f63646e2d69636f6e732e666c617469636f6e2e636f6d2f706e672f3132382f333632312f7072656d69756d2f333632313433352e706e673f746f6b656e3d6578703d313634353334323737337e686d61633d3036626534383437366435363735613065646339346632363237326633383233" alt="Instagram " title="Instagram " width="64" height="64" data-canonical-src="https://cdn-icons.flaticon.com/png/128/3621/premium/3621435.png?token=exp=1645342773~hmac=06be48476d5675a0edc94f26272f3823" style="max-width: 100%;">
+<a href="https://www.instagram.com/akashverma8569/" rel="nofollow"><img 
+ src="https://cdn-icons.flaticon.com/png/128/3955/premium/3955024.png?token=exp=1648365153~hmac=a64ae02fa280800e7bb6a98593946995" data-src="https://cdn-icons.flaticon.com/png/128/3955/premium/3955024.png?token=exp=1648365153~hmac=a64ae02fa280800e7bb6a98593946995" alt="Instagram icon" title="Instagram icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons.flaticon.com/png/128/3955/premium/3955024.png?token=exp=1648365153~hmac=a64ae02fa280800e7bb6a98593946995 4x">
  
-  <a href="mailto:akashverna8569@gmail.com"><img 
+ <a href="mailto:akashverna8569@gmail.com"><img 
   src="https://cdn-icons-png.flaticon.com/128/732/732200.png" data-src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Gmail " title="Gmail " width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/732/732200.png 4x">
    
 <a href="https://twitter.com/AAKASHV1203" rel="nofollow"><img 

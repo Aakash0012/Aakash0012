@@ -1,22 +1,3 @@
-<div class="col-12 col-lg-6 text-center text-md-left position-relative">
-            <div class="home-globe-container home-globe-container-webgl">
-  <div class="mx-auto width-full mt-n9 mt-lg-2 home-globe position-relative height-full js-webgl-globe">
-    <video width="916" height="918" loop="" muted="" playsinline="" preload="none" class="home-globe-container-video js-globe-fallback-video " hidden="">
-      <source type="video/mp4; codecs=hevc,mp4a.40.2" src="https://github.githubassets.com/images/modules/site/home/globe-900.hevc.mp4">
-      <source type="video/mp4; codecs=avc1.4D401E,mp4a.40.2" src="https://github.githubassets.com/images/modules/site/home/globe-900.h264.mp4">
-    </video>
-    <video loop="" muted="" playsinline="" preload="none" class="home-globe-container-video js-globe-fallback-video-small" hidden="">
-      <source type="video/mp4; codecs=hevc,mp4a.40.2" src="https://github.githubassets.com/images/modules/site/home/globe-500.hevc.mp4">
-      <source type="video/mp4; codecs=avc1.4D401E,mp4a.40.2" src="https://github.githubassets.com/images/modules/site/home/globe-500.h264.mp4">
-    </video>
-    <img srcset="https://github.githubassets.com/images/modules/site/home/globe-700.jpg 700w,
-              https://github.githubassets.com/images/modules/site/home/globe.jpg 1400w" sizes="(max-width: 700px) 70vw, 700px" src="https://github.githubassets.com/images/modules/site/home/globe.jpg" alt="Planet earth with visualization of GitHub activity crossing the globe" class="width-full height-auto js-globe-fallback-image" loading="lazy" decoding="async" width="1238" height="1404" hidden="">
-
-    
-
-  <canvas width="900" height="900" class="webgl-canvas js-globe-canvas cursor-pointer" style="display: block; width: 900px; height: 900px;"></canvas></div>
-</div>
-
 <p align="center" >
 <img src="https://camo.githubusercontent.com/a317930756e224fe9e139357d41031547ad2ea9c1c6947aa9af3061d888ff14f/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f54303137324343504755572f70617274792d626c6f622f643732353337303766613133653965652e676966" style="max-width: 100%;">
  </p>
